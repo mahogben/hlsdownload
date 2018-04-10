@@ -5,7 +5,7 @@ GROUP="My Videos"
 
 # INSERT LINKS TO VIDEOS HERE, in format as below
 LINK=(
-'Title for the video'
+'<insert folder name for downloaded ts files>'
 'http://s2.content.video.llnw.net/smedia/42f4e71183054396907c0dea18241568/yd/yLpoUEilVrxhhYSkpsyGMnn9t0N3AYxWmoMsM7Faw/francstireurs_entrevue_ep472_seq24.mpegts/playlist'
 )
 
